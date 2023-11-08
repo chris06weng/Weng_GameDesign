@@ -7,11 +7,12 @@ Classroom Champion - Chris Weng
     2. If you leave the boundaries through a non-security gate, you will be teleported back to spawn (the parking lot) automatically
     3. General game spawn is the parking lot, but during each class your spawn is in your classroom
     4. Every classroom is a replica of the real class at Harvard Westlake
+    5. Teachers are NPCs that walk around campus and catch players who are breaking school rules
 4. Each player has a customizable avatar that is normal human size (relative to the game map) and can choose a PG-13 username when they create their account
     1. Players can freely go around campus and interact with the map
     2. Certain items can be picked up / carried around
     3. Players have a backpack with limited size for items
-    4. Players can carry two items at once
+    4. Players can carry two items in their hands at once
     5. Players have infinite energy but have to alternate between crouching, running and sprinting, as player can only sprint for short durations, run by default, and crouch when pressing shift
     6. Players are countrolled by wasd, and the perspective is controlled by mouse/trackpad
     7. Players have a health bar with 100 health
@@ -29,7 +30,9 @@ Classroom Champion - Chris Weng
     6. Get caught by security - 5
     7. Beat another team in a race on the field + 10
     8. Get beat by another team in a race on the field - 5
-    9. If a team collectively kills more than 10 other players during passive mode, their whole team is trapped inside their classroom for the rest of the Block
+    9. Get caught by a teacher - 3
+    10. Break a school rule without getting caught + 2
+    11. If a team collectively kills more than 10 other players during passive mode, their whole team is trapped inside their classroom for the rest of the Block
 10. Once during each Block, the game becomes active and the game goes into battle mode. The teams must find accessible weapons on campus and then battle until one team remains.
 11. Battle Points
    1. Killing a player + 10 points
